@@ -1,4 +1,4 @@
-# IoMT-Bact: Using Jetson Nano for Improved Detection of Gram-Stained Bacterial Strains in the Internet of Medical Things (IoMT)
+# IoMT-Bact: Using Jetson Nano for Improved Detection of Gram-Stained Bacterial Strains in the Internet of Medical Things
 
  [![LICENSE](https://img.shields.io/badge/LICENSE-MIT-blue.svg)](LICENSE)
 
