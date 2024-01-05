@@ -1,8 +1,4 @@
-# IoMT-Bact : Internet of Medical Things (IoMT) for Enhanced Detection of Gram-Stained Bacterial Strains with Jetson Nano
-
-```
-This project is a submission for the NVIDIA Jetson AI Specialist Certification.
-```
+# IoMT-Bact: Using Jetson Nano for Improved Detection of Gram-Stained Bacterial Strains in the Internet of Medical Things (IoMT)
 
  [![LICENSE](https://img.shields.io/badge/LICENSE-MIT-blue.svg)](LICENSE)
 
